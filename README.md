@@ -18,7 +18,7 @@ Providing the necessary information about a hospital or clinic.
 
 ### Tasks
   - **Due Friday, 2nd of December 2022**
-      - Add their info to the readme and create a pull request
+      - Add your info to the readme *Meet The Team* section and create a pull request
       - Design the mockup using figma
 
 ### Meet The Team
