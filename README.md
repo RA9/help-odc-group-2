@@ -23,3 +23,5 @@ Providing the necessary information about a hospital or clinic.
 
 ### Meet The Team
 Princess B. Washington - [@princesswG](https://www.github.com/princesswG)
+
+Daniel K Zoegar Jr - [@Dkz01998](https://www.github.com/Dkz01998)
