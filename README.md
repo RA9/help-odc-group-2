@@ -20,4 +20,4 @@ Providing the necessary information about a hospital or clinic.
 ### Meet The Team
 Princess B. Washington - [@princesswG](https://www.github.com/princesswG)
 
-Chris Deabeh - [@Deabeh18](https://www.github.com/Deabeh18
+Chris Deabeh - [@Deabeh18](https://www.github.com/Deabeh18)
