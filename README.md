@@ -16,6 +16,10 @@ Providing the necessary information about a hospital or clinic.
 - Heroicons - For the icons
 - Google Fonts - For the fonts
 
+### Tasks
+  - **Due Friday, 2nd of December 2022**
+      - Add their info to the readme and create a pull request
+      - Design the mockup using figma
 
 ### Meet The Team
 Princess B. Washington - [@princesswG](https://www.github.com/princesswG)
