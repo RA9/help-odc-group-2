@@ -1,10 +1,13 @@
 Help
+
 A directory site that gives basic information about hospitals and clinics.
 
 The Problem
+
 It is difficult to find basic information of hospitals or clinics in Liberia.
 
 The Solution
+
 Providing the necessary information about a hospital or clinic.
 
 Tech Stack
