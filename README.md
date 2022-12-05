@@ -69,6 +69,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Help
+A directory site that gives basic information about hospitals and clinics.
+
+The Problem
+It is difficult to find basic information of hospitals or clinics in Liberia.
+
+The Solution
+Providing the necessary information about a hospital or clinic.
+
+Tech Stack
+Figma - For the mockup
+React - For the UI
+Firebase - For the Database
+Tailwind - For the CSS
+Heroicons - For the icons
+Google Fonts - For the fonts
+
 
 ### Tasks
   - **Due Friday, 2nd of December 2022**
