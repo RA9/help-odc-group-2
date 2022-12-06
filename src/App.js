@@ -1,7 +1,15 @@
+
+import React from 'react';
+import './App.css';
+
 import "./App.css";
+
+
+import Services from './components/Services.js'
 
 function App() {
   return (
+
     <>
       {/* <!-- This example requires Tailwind CSS v3.0+ --> */}
       <div style={{backgroundImage: url('../scr/images/bg-hosp.jpg')}} className="isolate bg-white">
@@ -278,6 +286,7 @@ function App() {
         </main>
       </div>
     </>
+
   );
 }
 
