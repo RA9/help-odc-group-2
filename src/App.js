@@ -6,13 +6,14 @@ import "./App.css";
 
 
 import Services from './components/Services.js'
+import AboutUs from './components/AboutUs';
 
 function App() {
   return (
 
     <>
-      {/* <!-- This example requires Tailwind CSS v3.0+ --> */}
-      <div style={{backgroundImage: url('../scr/images/bg-hosp.jpg')}} className="isolate bg-white">
+      
+      {/* <div style={{backgroundImage: url('../scr/images/bg-hosp.jpg')}} className="isolate bg-white"> */}
         <div className="absolute inset-x-0 top-[-10rem] -z-10 transform-gpu overflow-hidden blur-3xl sm:top-[-20rem]">
           <svg
             className="relative left-[calc(50%-11rem)] -z-10 h-[21.1875rem] max-w-none -translate-x-1/2 rotate-[30deg] sm:left-[calc(50%-30rem)] sm:h-[42.375rem]"
@@ -284,7 +285,9 @@ function App() {
             </div>
           </div>
         </main>
-      </div>
+      {/* </div> */}
+      <Services />
+      <AboutUs/>
     </>
 
   );
